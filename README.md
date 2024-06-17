@@ -1,4 +1,4 @@
-# Cognifys-Technology-Project
+# Cognifyz-Technologies-Project
 
 ## Overview
 
